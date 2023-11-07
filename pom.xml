@@ -14,6 +14,8 @@
         <module>work_queues</module>
         <module>publish-subscribe</module>
         <module>routing</module>
+        <module>topics</module>
+        <module>publisher-confirms</module>
     </modules>
     <name>RabbitMQ</name>
 
